@@ -1,7 +1,9 @@
 <h1>Hi 👋</h1>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<p>
+<a target="_blank" href="https://raw.githubusercontent.com/deadmarshal/deadmarshal/refs/heads/main/icons/Modula-3-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/deadmarshal/deadmarshal/refs/heads/main/icons/Modula-3-original.svg" alt="git" width="42" height="42" /></a></p>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/perl/perl-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/perl/perl-original.svg" alt="perl" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
